@@ -1,5 +1,4 @@
 * {
-    padding: 5px;
     margin: 0px;
 }
 
@@ -8,7 +7,7 @@
 justify-content: center;
     display: flex;
     /*border: 3px solid black;*/
-    width: 350px;
+    width: max-content;
     height: 250px;
     margin: 15px auto;
     padding: 15px; /*Borde de dentro de la caja */
@@ -20,7 +19,7 @@ justify-content: center;
 
 .caja2 {
     background-color: white;
-    width: 350px;
+    width: max-content;
     height: 200px;
     border-radius: 20px;
     margin-top: 12%;

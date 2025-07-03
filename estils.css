@@ -1,3 +1,8 @@
+body {
+    padding: 5px;
+}
+
+
 .caja1 {
 justify-content: center;
     display: flex;
@@ -17,7 +22,7 @@ justify-content: center;
     width: 350px;
     height: 200px;
     border-radius: 20px;
-    margin-top: 10%;
+    margin-top: 12%;
 
 
 }

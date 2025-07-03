@@ -7,8 +7,8 @@
 justify-content: center;
     display: flex;
     /*border: 3px solid black;*/
-    width: 100px;
-    height: max-content;
+    width: 200px;
+    height: fit-content;
     margin: 15px auto;
     padding: 15px; /*Borde de dentro de la caja */
     border-radius: 20px;
@@ -19,8 +19,8 @@ justify-content: center;
 
 .caja2 {
     background-color: white;
-    width: 100px;
-    height: max-content;
+    width: 200px;
+    height: fit-content;
     border-radius: 20px;
     margin-top: 12%;
 

@@ -58,6 +58,7 @@ justify-content: center;
 
 hr {
   height: 3px;
+  padding-left: 10px;
   width: 80%;
   border: 10px;
   background: rgb(105, 105, 105);

@@ -1,11 +1,10 @@
-
 .caja1 {
-justify-content: center;
+justify-content: left;
     display: flex;
-    /*border: 3px solid black;*/
     width: 300px;
-    height: 150px;
+    height: 180px;
     margin: 15px auto;
+    margin-bottom: 15px;
     padding: 15px; /*Borde de dentro de la caja */
     border-radius: 20px;
     background: #A3CC1BFF;
@@ -19,7 +18,8 @@ justify-content: center;
     width: 300px;
     height: 150px;
     border-radius: 20px;
-    margin-top: 1%;
+    margin-top: 10%;
+    position:static;
 
 
 }
@@ -72,7 +72,7 @@ button {
   justify-content: center;
   font-size: 16px;
   margin: 0px auto;
-  cursor: pointer;
+  cursor:pointer;
 }
 
 .disclaimer {
@@ -81,7 +81,7 @@ button {
     color: rgb(184, 184, 184);
     display: flex;
     justify-content: center;
-    margin-top: 300px;
+    margin-top: 200px;
 }
 
 .logo {
